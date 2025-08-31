@@ -11,7 +11,7 @@ netflix-dashboard-analysis/
 │── README.md            # Project documentation
 📑 Dataset
 The dataset used: Netflix Movies and TV Shows
-Source: Kaggle (Netflix Titles Dataset)
+Source: Kaggle [Netflix Titles Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 Contains information about:
 Title
 Type (Movie / TV Show)
@@ -42,5 +42,5 @@ Understood insights about Netflix’s global content distribution.
 🙋‍♀️ Author
 👩 Amina Parveen
 📧 Contact: [Linkedin](www.linkedin.com/in/amina-parveen-9606182a2)
-🌐 GitHub: Amina-Parveen
+🌐 GitHub: [GitHub](https://github.com/Amina-Parveen)
 ✨ This project is for learning and academic purposes only.
