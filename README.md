@@ -47,8 +47,9 @@ The dashboard was created in **Tableau Public** to visualize:
 ## ⚙️ How to Use
 
 1. Clone the repository:
-bash
+```bash
    https://github.com/Amina-Parveen/Netflix-Dashboard.git
+```
 2. Open the project in VS Code or any editor.
 3. Dataset is inside the data/ folder.
 4. Dashboard screenshots are inside the dashboard/ folder.
