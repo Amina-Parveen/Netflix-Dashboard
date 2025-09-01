@@ -9,13 +9,13 @@
 
 netflix-dashboard-analysis/
 ```
-│── data/  # Dataset folder
+│── data/         # Dataset folder
 │ └── netflix_titles.csv
 │
-│── dashboard/  # Screenshots or Tableau Public links
+│── dashboard/    # Screenshots or Tableau Public links
 │ └── dashboard_ss.png
 │
-│── README.md  # Project documentation
+│── README.md     # Project documentation
 ```
 
 ## 📑 Dataset
@@ -61,7 +61,7 @@ The dashboard was created in **Tableau Public** to visualize:
 - Practiced building interactive dashboards in Tableau.  
 - Understood insights about Netflix’s global content distribution.  
 
-## 🙋‍♀️ Author
+##  Author
 
 👩 **Amina Parveen**  
 📧 **Contact:** [LinkedIn](https://www.linkedin.com/in/amina-parveen-9606182a2)  
